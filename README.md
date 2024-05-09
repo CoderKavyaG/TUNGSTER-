@@ -3,7 +3,6 @@ Welcome to Tungster, your immersive platform for learning Indian languages! We f
 
 ## Project Owners
 - *Primary Owner*: Kavya Goel
-- *Secondary Owners*: Kashish and Karunesh
 
 ## Features
 Tungster offers a suite of features aimed at enhancing the language learning experience:
